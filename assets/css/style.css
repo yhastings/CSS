@@ -1,0 +1,52 @@
+body{
+    background-color: #CFCFCF;
+}
+
+.menu li{
+    display: inline;
+    padding: 16px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.menu li a:hover {
+    font-size: 30px;
+    color: red;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-itens: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.wh-500{
+    width: 500px;
+    height: 500px;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.tm-social{
+    width: 40px;
+    height: 40px;
+}
